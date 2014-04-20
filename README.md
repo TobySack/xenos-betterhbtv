@@ -10,7 +10,7 @@ Current features:
 
 
 Installation:
- - To enable this Chrome extension, you must first download the zip file (https://github.com/xenos360/xenos-betterhbtv/archive/master.zip).
+ - You must first download the zip file (https://github.com/xenos360/xenos-betterhbtv/archive/master.zip).
  - Once downloaded, extract it to your computer.
  - Then, in Chrome, go to Settings -> Extensions and make sure you have the checkbox for "Developer Mode" checked. This will provide two buttons.
  - Click "Load unpacked extension...", and select the directory that you extracted the zip file to, and click OK.
