@@ -6,6 +6,7 @@ Current features:
  - Username highlighting
  - Darkening the theme
  - Split Chat Messages (Distinguish messages from different users in chat)
+ - More to come in the future
 
 
 Installation:
