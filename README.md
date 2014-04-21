@@ -14,3 +14,6 @@ Installation:
  - Once downloaded, extract it to your computer.
  - Then, in Chrome, go to Settings -> Extensions and make sure you have the checkbox for "Developer Mode" checked. This will provide two buttons.
  - Click "Load unpacked extension...", and select the directory that you extracted the zip file to, and click OK.
+ 
+
+The extension was made by "devmoose" You can download it at: https://github.com/devmoose/betterhbtv.
