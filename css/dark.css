@@ -126,22 +126,26 @@ textarea, #chatInput {
 
 .chatBody li.user:nth-child(odd) {
     background-color: #232323 !important;
-    border-top: 1px solid #000;
+    border-top: 1px solid #252525;
+    box-shadow: 0 -1px 0 #000;
 }
 
 .chatBody li.user:nth-child(even) {
     background-color: #1e1e1e !important;
-    border-top: 1px solid #000;
+    border-top: 1px solid #252525;
+    box-shadow: 0 -1px 0 #000;
 }
 
 .chatBody li.anon:nth-child(odd) {
     background-color: #232323 !important;
-    border-top: 1px solid #000;
+    border-top: 1px solid #252525;
+    box-shadow: 0 -1px 0 #000;
 }
 
 .chatBody li.anon:nth-child(even) {
     background-color: #1e1e1e !important;
-    border-top: 1px solid #000;
+    border-top: 1px solid #252525;
+    box-shadow: 0 -1px 0 #000;
 }
 
 .chatBody.fontSize1 li {
@@ -172,7 +176,8 @@ textarea, #chatInput {
 
 .chatBody li.admin {
     background-color: #111111 !important;
-    border-top: 1px solid #000;
+    border-top: 1px solid #252525;
+    box-shadow: 0 -1px 0 #000;
 }
 
 .chatUsers {
